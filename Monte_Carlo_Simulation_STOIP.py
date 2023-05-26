@@ -48,3 +48,5 @@ st.write('Deterministic STOIP =', STOIP_det, 'STB')
 # calculate the error between deterministic and P50
 error = (P50 - STOIP_det) / STOIP_det * 100
 st.write('Error between deterministic and P50 =', error, '%')
+
+# done by Elnur
